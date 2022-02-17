@@ -16,7 +16,7 @@ public class DCBot {
 
 	public DCBot() throws LoginException, IllegalArgumentException {
 		DefaultShardManagerBuilder builder = new DefaultShardManagerBuilder();
-		builder.setToken("OTMzNzQxODQ1OTk1OTgyODQ4.Yel83A.VxQn8PwgCtbHtfbEexkqdA99VYc");
+		builder.setToken("TOKEN kann hier nicht veröffentlicht werden. Discord haut nen SECURITY WARNING raus");
 
 		builder.setStatus(OnlineStatus.ONLINE);
 
